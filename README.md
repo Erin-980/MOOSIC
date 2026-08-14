@@ -95,6 +95,7 @@ Together, these systems transform everyday interactions into meaningful recommen
 - 🎵 Personalized music recommendations
 - 🎨 Dynamic and customizable themes
 - 🗑️ Playlist recovery
+- 🔒 Private accounts & playlists
 - ❤️ Smarter user personalization
 - ☁️ Cloud-based digital architecture
 - 📊 Business Information Systems integration
